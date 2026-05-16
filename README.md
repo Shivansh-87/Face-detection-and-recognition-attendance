@@ -57,7 +57,7 @@ Face-detection-and-recognition-attendance/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Face-detection-and-recognition-attendance.git
+git clone https://github.com/Shivansh-87/Face-detection-and-recognition-attendance.git
 cd Face-detection-and-recognition-attendance
 
 # Install dependencies
